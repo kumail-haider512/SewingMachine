@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 295" style="enable-background:new 0 0 1920 295;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.24;fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#ACEAFD;}
+	.st3{fill:#9AB7BE;}
+	.st4{opacity:0.23;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:25.1753,25.1753;}
+</style>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="1750.2928" cy="205.2333" r="47.3292" fx="1742.2129" fy="211.188" gradientTransform="matrix(1.1469 -0.3775 0.2241 0.5453 -315.2592 701.579)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#CCCCCC"/>
+		<stop  offset="0.2582" style="stop-color:#D2D2D2;stop-opacity:0.7418"/>
+		<stop  offset="0.596" style="stop-color:#E2E2E2;stop-opacity:0.404"/>
+		<stop  offset="0.9766" style="stop-color:#FDFDFD;stop-opacity:2.344590e-02"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path class="st0" d="M1791.3,135.6c6.6,15.9-12.4,36.9-42.4,46.7c-30,9.9-59.6,4.9-66.1-11c-6.6-15.9,12.4-36.9,42.4-46.7
+		S1784.7,119.7,1791.3,135.6z"/>
+	<g>
+		<polygon class="st1" points="1819.4,101.3 1698.7,69.3 1719.6,101.1 		"/>
+		<polygon class="st2" points="1719.6,101.1 1696.1,135 1819.4,101.3 		"/>
+		<polygon class="st3" points="1696.1,135 1725.3,117.7 1819.4,101.3 		"/>
+		<polygon class="st1" points="1819.4,101.3 1733.5,156.2 1725.3,117.7 		"/>
+	</g>
+</g>
+<g class="st4">
+	<g>
+		<path class="st5" d="M1684.5,130.5c0,0-4.3-0.1-12.5,0.3"/>
+		<path class="st6" d="M1646.9,132.3c-60.6,5.1-190.1,24-355.1,94.6c-231.3,98.9-408.6-69.2-408.6-69.2s-93.9-112.6-441.6,1.2
+			c-217.1,76.3-235.5-24.6-235.5-24.6S175.8,23.7,306.2,21.5s133.1,90.4,133.1,90.4s1.7,189.8-201.2,163.9S36,110.2,36,110.2
+			s-4.9-133,56.9-172.7"/>
+		<path class="st5" d="M104.1-68.4c3.8-1.5,7.7-2.8,11.9-3.6"/>
+	</g>
+</g>
+</svg>
